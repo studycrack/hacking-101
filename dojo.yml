@@ -11,4 +11,3 @@ modules:
 - id: hello-hackers
 - id: assembly-crash-course
 - id: debugging-refresher
-- id: building-a-web-server
