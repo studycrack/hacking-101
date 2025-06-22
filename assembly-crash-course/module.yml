@@ -119,5 +119,5 @@ challenges:
   name: count-non-zero
 - id: level-22
   name: string-lower
-- id: level-23
-  name: most-common-byte
+#- id: level-23
+#  name: most-common-byte
