@@ -8,14 +8,14 @@ challenges:
   name: level3
 #- id: level-4
 #  name: level4
-- id: level-5
-  name: level5
-- id: level-6
-  name: level6
-- id: level-7
-  name: level7
-- id: level-8
-  name: level8
+#- id: level-5
+#  name: level5
+#- id: level-6
+#  name: level6
+#- id: level-7
+#  name: level7
+#- id: level-8
+#  name: level8
 resources:
 - name: Robert's GDB Walkthrough
   type: lecture
