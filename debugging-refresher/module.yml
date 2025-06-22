@@ -6,8 +6,8 @@ challenges:
   name: level2
 - id: level-3
   name: level3
-- id: level-4
-  name: level4
+#- id: level-4
+#  name: level4
 - id: level-5
   name: level5
 - id: level-6
