@@ -1,0 +1,1 @@
+This level requires you to read the `bypass_me` function in the challenge and use pwntools to complete the challenge. Next, you need to use the `p64`, `p32`, `p16`, `p8`, and other APIs in pwntools to write an exploit script, send a specific input to bypass the check, and read the /flag.
