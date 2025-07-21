@@ -7,3 +7,4 @@ award:
 modules:
 - id: assembly-crash-course
 - id: debugging-refresher
+- id: pwntools
