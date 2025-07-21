@@ -2,10 +2,6 @@ Pwntools is a toolkit (including various handy tools) and a software library des
 
 - send, recv
 - pack, unpack
-- Assembly & Disassembly
-- ELF parsing
-- cyclic
-- ShellCode & ROP
 
 You can use the following python code to import the pwntools library:
 
