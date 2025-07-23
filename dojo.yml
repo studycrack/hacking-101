@@ -9,3 +9,4 @@ modules:
 - id: debugging-refresher
 - id: pwntools
 - id: memory
+- id: binary-exploitation
